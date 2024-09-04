@@ -1,0 +1,45 @@
+**Faculty of Arts and Sciences**
+Chemistry B.S.
+History B.A.
+Linguistics B.A.
+Mathematics B.S.
+Molecular Biology and Genetics B.S.
+Philosophy B.A.
+Physics B.S.
+Psychology B.A.
+Sociology B.A.
+Translation and Interpretation Studies B.A.
+Turkish Language and Literature B.A.
+Western Languages and Literatures B.A.
+
+**Faculty of Economics and Administrative Sciences**
+Economics B.A.
+Management B.A.
+Political Science and International Relations B.A.
+
+**Faculty of Education**
+Chemistry Education B.S.
+Computer Education and Educational Technology B.A.
+Foreign Language Education B.A.
+Guidance and Psychological Counseling B.A.
+Physics Education B.S.
+Primary Education B.A.
+Primary Mathematics Education B.S.
+Science Education B.S.
+Secondary Mathematics Education B.S.
+
+**Faculty of Engineering**
+Chemical Engineering B.S.
+Civil Engineering B.S.
+Computer Engineering B.S.
+Electrical and Electronic Engineering B.S.
+Industrial Engineering B.S.
+Mechanical Engineering B.S.
+
+**Faculty of Law**
+Law Practice B.A.
+
+**Faculty of Managerial Sciences**
+International Trade B.A.
+Management Information Systems B.A.
+Tourism Administration B.A.

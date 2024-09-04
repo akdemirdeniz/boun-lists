@@ -1,0 +1,45 @@
+**Eğitim Fakültesi**
+Bilgisayar ve Öğretim Teknolojileri Eğitimi
+Fen Bilgisi Öğretmenliği
+Fizik Öğretmenliği
+İlköğretim Matematik Öğretmenliği
+Kimya Öğretmenliği
+Matematik Öğretmenliği
+Psikolojik Danışmanlık ve Rehberlik
+Temel Eğitim
+Yabancı Dil Eğitimi
+
+**Fen Edebiyat Fakültesi**
+Batı Dilleri ve Edebiyatları
+Çeviribilimi
+Dilbilimi
+Felsefe
+Fizik
+Kimya
+Matematik
+Moleküler Biyoloji ve Genetik
+Psikoloji
+Sosyoloji
+Tarih
+Türk Dili ve Edebiyatı
+
+**Hukuk Fakültesi**
+Hukuk
+
+**İktisadi ve İdari Bilimler Fakültesi**
+Ekonomi
+İşletme
+Siyaset Bilimi ve Uluslararası İlişkiler
+
+**Mühendislik Fakültesi**
+Bilgisayar Mühendisliği
+Elektrik ve Elektronik Mühendisliği
+Endüstri Mühendisliği
+İnşaat Mühendisliği
+Kimya Mühendisliği
+Makine Mühendisliği
+
+**Yönetim Bilimleri Fakültesi**
+Turizm İşletmeciliği
+Uluslararası Ticaret
+Yönetim Bilişim Sistemleri

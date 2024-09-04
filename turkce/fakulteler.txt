@@ -1,0 +1,7 @@
+Eğitim Fakültesi
+Fen Edebiyat Fakültesi
+İletişim Fakültesi
+Hukuk Fakültesi
+İktisadi ve İdari Bilimler Fakültesi
+Mühendislik Fakültesi
+Yönetim Bilimleri Fakültesi
